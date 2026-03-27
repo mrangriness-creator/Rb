@@ -589,3 +589,4 @@ function VelocityLib:CreateWindow()
 	return WindowOptions
 end
 
+return VelocityLib
